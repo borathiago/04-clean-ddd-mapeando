@@ -6,6 +6,10 @@
 
     Estoque
 
+    Compra
+
+    Venda
+
 
 ## Casos de uso que a aplicação deve ter
 
